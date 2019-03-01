@@ -1,0 +1,11 @@
+library(blogdown)
+version(R)
+version()
+new_site(theme='ghostwriter')
+new_site(theme='ghostwriter')
+serve_site()
+serve_site()
+serve_site()
+ls
+serve_site()
+hugo_build()

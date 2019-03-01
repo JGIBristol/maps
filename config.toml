@@ -1,6 +1,6 @@
-baseurl = "/"
+baseurl = "https://jean-golding-institute.github.io/maps/"
 languageCode = "en-us"
-title = "A Hugo website"
+title = "MAPS: mapping the analytic pathways of a crowdsourced data analysis"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""

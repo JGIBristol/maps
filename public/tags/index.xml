@@ -1,175 +1,175 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Minimal</title>
-    <link>http://example.com/tags/</link>
-    <description>Recent content in Tags on Minimal</description>
+    <title>Tags on MAPS: mapping the analytic pathways of a crowd-sourced data analysis</title>
+    <link>https://jean-golding-institute.github.io/maps/tags/</link>
+    <description>Recent content in Tags on MAPS: mapping the analytic pathways of a crowd-sourced data analysis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jean-golding-institute.github.io/maps/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bootstrap</title>
-      <link>http://example.com/tags/bootstrap/</link>
+      <link>https://jean-golding-institute.github.io/maps/tags/bootstrap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/bootstrap/</guid>
+      <guid>https://jean-golding-institute.github.io/maps/tags/bootstrap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Css</title>
-      <link>http://example.com/tags/css/</link>
+      <link>https://jean-golding-institute.github.io/maps/tags/css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/css/</guid>
+      <guid>https://jean-golding-institute.github.io/maps/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>http://example.com/tags/development/</link>
+      <link>https://jean-golding-institute.github.io/maps/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/development/</guid>
+      <guid>https://jean-golding-institute.github.io/maps/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>http://example.com/tags/go/</link>
+      <link>https://jean-golding-institute.github.io/maps/tags/go/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/go/</guid>
+      <guid>https://jean-golding-institute.github.io/maps/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>http://example.com/tags/golang/</link>
+      <link>https://jean-golding-institute.github.io/maps/tags/golang/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/golang/</guid>
+      <guid>https://jean-golding-institute.github.io/maps/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Highlight Js</title>
-      <link>http://example.com/tags/highlight-js/</link>
+      <link>https://jean-golding-institute.github.io/maps/tags/highlight-js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/highlight-js/</guid>
+      <guid>https://jean-golding-institute.github.io/maps/tags/highlight-js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Html</title>
-      <link>http://example.com/tags/html/</link>
+      <link>https://jean-golding-institute.github.io/maps/tags/html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/html/</guid>
+      <guid>https://jean-golding-institute.github.io/maps/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>http://example.com/tags/hugo/</link>
+      <link>https://jean-golding-institute.github.io/maps/tags/hugo/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/hugo/</guid>
+      <guid>https://jean-golding-institute.github.io/maps/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jekyll</title>
-      <link>http://example.com/tags/jekyll/</link>
+      <link>https://jean-golding-institute.github.io/maps/tags/jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/jekyll/</guid>
+      <guid>https://jean-golding-institute.github.io/maps/tags/jekyll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Js</title>
-      <link>http://example.com/tags/js/</link>
+      <link>https://jean-golding-institute.github.io/maps/tags/js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/js/</guid>
+      <guid>https://jean-golding-institute.github.io/maps/tags/js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Plot</title>
-      <link>http://example.com/tags/plot/</link>
+      <link>https://jean-golding-institute.github.io/maps/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>http://example.com/tags/plot/</guid>
+      <guid>https://jean-golding-institute.github.io/maps/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>http://example.com/tags/r-markdown/</link>
+      <link>https://jean-golding-institute.github.io/maps/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>http://example.com/tags/r-markdown/</guid>
+      <guid>https://jean-golding-institute.github.io/maps/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regression</title>
-      <link>http://example.com/tags/regression/</link>
+      <link>https://jean-golding-institute.github.io/maps/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>http://example.com/tags/regression/</guid>
+      <guid>https://jean-golding-institute.github.io/maps/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Responsive</title>
-      <link>http://example.com/tags/responsive/</link>
+      <link>https://jean-golding-institute.github.io/maps/tags/responsive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/responsive/</guid>
+      <guid>https://jean-golding-institute.github.io/maps/tags/responsive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Static Site Generator</title>
-      <link>http://example.com/tags/static-site-generator/</link>
+      <link>https://jean-golding-institute.github.io/maps/tags/static-site-generator/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/static-site-generator/</guid>
+      <guid>https://jean-golding-institute.github.io/maps/tags/static-site-generator/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Syntax Highlighting</title>
-      <link>http://example.com/tags/syntax-highlighting/</link>
+      <link>https://jean-golding-institute.github.io/maps/tags/syntax-highlighting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/syntax-highlighting/</guid>
+      <guid>https://jean-golding-institute.github.io/maps/tags/syntax-highlighting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Template</title>
-      <link>http://example.com/tags/template/</link>
+      <link>https://jean-golding-institute.github.io/maps/tags/template/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/template/</guid>
+      <guid>https://jean-golding-institute.github.io/maps/tags/template/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Themes</title>
-      <link>http://example.com/tags/themes/</link>
+      <link>https://jean-golding-institute.github.io/maps/tags/themes/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/themes/</guid>
+      <guid>https://jean-golding-institute.github.io/maps/tags/themes/</guid>
       <description></description>
     </item>
     

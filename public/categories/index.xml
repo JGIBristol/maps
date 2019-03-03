@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Minimal</title>
-    <link>http://example.com/categories/</link>
-    <description>Recent content in Categories on Minimal</description>
+    <title>Categories on MAPS: mapping the analytic pathways of a crowd-sourced data analysis</title>
+    <link>https://jean-golding-institute.github.io/maps/categories/</link>
+    <description>Recent content in Categories on MAPS: mapping the analytic pathways of a crowd-sourced data analysis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jean-golding-institute.github.io/maps/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>R</title>
-      <link>http://example.com/categories/r/</link>
+      <link>https://jean-golding-institute.github.io/maps/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>http://example.com/categories/r/</guid>
+      <guid>https://jean-golding-institute.github.io/maps/categories/r/</guid>
       <description></description>
     </item>
     

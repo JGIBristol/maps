@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Syntax Highlighting on Minimal</title>
-    <link>/tags/syntax-highlighting/</link>
+    <link>http://example.com/tags/syntax-highlighting/</link>
     <description>Recent content in Syntax Highlighting on Minimal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/tags/syntax-highlighting/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.com/tags/syntax-highlighting/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Project 4</title>
-      <link>/project/project4/</link>
+      <link>http://example.com/project/project4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/project/project4/</guid>
+      <guid>http://example.com/project/project4/</guid>
       <description></description>
     </item>
     

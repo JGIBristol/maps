@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Responsive on MAPS: mapping the analytic pathways of a crowd-sourced data analysis</title>
-    <link>https://jean-golding-institute.github.io/maps/tags/responsive/</link>
-    <description>Recent content in Responsive on MAPS: mapping the analytic pathways of a crowd-sourced data analysis</description>
+    <title>Responsive on MAPS</title>
+    <link>/maps/tags/responsive/</link>
+    <description>Recent content in Responsive on MAPS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://jean-golding-institute.github.io/maps/tags/responsive/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/maps/tags/responsive/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Project 3</title>
-      <link>https://jean-golding-institute.github.io/maps/project/project3/</link>
+      <link>/maps/project/project3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jean-golding-institute.github.io/maps/project/project3/</guid>
+      <guid>/maps/project/project3/</guid>
       <description></description>
     </item>
     

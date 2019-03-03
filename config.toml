@@ -1,12 +1,12 @@
-baseURL = "http://example.com/"
+baseURL = "https://jean-golding-institute.github.io/maps/"
 languageCode = "en-us"
-title = "Minimal"
+title = "MAPS: mapping the analytic pathways of a crowd-sourced data analysis"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
-    author = "Calin Tataru"
+    author = "Rob Arbon"
     description = "Personal blog theme powered by Hugo"
     githubUsername = "#"
     accent = "red"
@@ -22,15 +22,15 @@ googleAnalytics = ""
     name = "Home"
     weight = 1
 
-[[menu.main]]
-    url = "/post/"
-    name = "Posts"
-    weight = 2
-
-[[menu.main]]
-    url = "/project/"
-    name = "Projects"
-    weight = 3
+# [[menu.main]]
+#     url = "/post/"
+#     name = "Posts"
+#     weight = 2
+# 
+# [[menu.main]]
+#     url = "/project/"
+#     name = "Projects"
+#     weight = 3
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
@@ -51,12 +51,4 @@ googleAnalytics = ""
     name = "twitter"
     weight = 3
 
-[[menu.icon]]
-    url = "https://www.linkedin.com/in/username/"
-    name = "linkedin"
-    weight = 4
 
-[[menu.icon]]
-    url = "https://www.stackoverflow.com/username/"
-    name = "stack-overflow"
-    weight = 5

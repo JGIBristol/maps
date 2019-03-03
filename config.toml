@@ -1,15 +1,15 @@
 baseURL = "https://jean-golding-institute.github.io/maps/"
 languageCode = "en-us"
-title = "MAPS: mapping the analytic pathways of a crowd-sourced data analysis"
+title = "MAPS"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
     author = "Rob Arbon"
-    description = "Personal blog theme powered by Hugo"
+    description = "mapping the analytic pathways of a crowd-sourced data analysis"
     githubUsername = "#"
-    accent = "red"
+    accent = "purple"
     showBorder = true
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!

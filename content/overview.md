@@ -42,6 +42,6 @@ MAPS is a crowd-sourced science experiment in the same vein as [Many analysts,On
 * The deadline for submitting your data analysis is 27th June 2019. 
 * The deadline for submitting your data visualisation is 22nd July 2019. 
 
-
+* Sometime in late september there will be a showcase event were we will discuss the preliminary findings and visualisations. If you're in Bristol please feel free to come along!
 
 

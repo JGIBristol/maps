@@ -27,7 +27,22 @@ googleAnalytics = ""
  url = "/overview"
  name = "Project Overview"
  weight = 2
-
+ 
+ [[menu.main]] 
+ url = "/the_data"
+ name = "The data set"
+ weight = 3
+ 
+ [[menu.main]] 
+ url = "/get_involved"
+ name = "Get involved"
+ weight = 4
+ 
+ [[menu.main]] 
+ url = "/credits"
+ name = "Credits"
+ weight = 5
+ 
 # [[menu.main]]
 #     url = "/project/"
 #     name = "Projects"

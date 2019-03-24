@@ -3,7 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/maps/credits/</loc>
+  </url>
+  
+  <url>
+    <loc>/maps/get_involved/</loc>
+  </url>
+  
+  <url>
     <loc>/maps/overview/</loc>
+  </url>
+  
+  <url>
+    <loc>/maps/the_data/</loc>
   </url>
   
   <url>

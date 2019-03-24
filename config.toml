@@ -17,16 +17,17 @@ googleAnalytics = ""
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
     profilePic = "profile.png"
+
 [[menu.main]]
     url = "/"
     name = "Home"
     weight = 1
 
-# [[menu.main]]
-#     url = "/post/"
-#     name = "Posts"
-#     weight = 2
-# 
+[[menu.main]] 
+ url = "/overview"
+ name = "Project Overview"
+ weight = 2
+
 # [[menu.main]]
 #     url = "/project/"
 #     name = "Projects"

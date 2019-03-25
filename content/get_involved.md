@@ -5,17 +5,17 @@ weight: 1
 ---
 
 
-## Sign up procedure
+## How to get involved
 
-...coming soon...
+1. Sign up to our mailing list [here]()
+2. You will receive instruction on how to register for the project via this mailing list. 
 
-## Otherways to participate
+Note: 
 
-We are looking for volunteers 
+* All project communication from us to you will be through the mailing list. 
+* If you would like to ask us a question please email maps-project [at] bristol dot ac dot uk (link on the top right as well). 
 
+## Information
 
-## Slack
-
-...coming soon...
 
 

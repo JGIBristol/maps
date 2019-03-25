@@ -3,189 +3,189 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/maps/credits/</loc>
+    <loc>https://jean-golding-institute.github.io/maps/credits/</loc>
   </url>
   
   <url>
-    <loc>/maps/get_involved/</loc>
+    <loc>https://jean-golding-institute.github.io/maps/get_involved/</loc>
   </url>
   
   <url>
-    <loc>/maps/overview/</loc>
+    <loc>https://jean-golding-institute.github.io/maps/overview/</loc>
   </url>
   
   <url>
-    <loc>/maps/the_data/</loc>
+    <loc>https://jean-golding-institute.github.io/maps/the_data/</loc>
   </url>
   
   <url>
-    <loc>/maps/project/project2/</loc>
+    <loc>https://jean-golding-institute.github.io/maps/project/project2/</loc>
   </url>
   
   <url>
-    <loc>/maps/project/project3/</loc>
+    <loc>https://jean-golding-institute.github.io/maps/project/project3/</loc>
   </url>
   
   <url>
-    <loc>/maps/project/project4/</loc>
+    <loc>https://jean-golding-institute.github.io/maps/project/project4/</loc>
   </url>
   
   <url>
-    <loc>/maps/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>https://jean-golding-institute.github.io/maps/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/maps/post/creating-a-new-theme/</loc>
+    <loc>https://jean-golding-institute.github.io/maps/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/maps/post/goisforlovers/</loc>
+    <loc>https://jean-golding-institute.github.io/maps/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/maps/post/hugoisforlovers/</loc>
+    <loc>https://jean-golding-institute.github.io/maps/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/maps/post/migrate-from-jekyll/</loc>
+    <loc>https://jean-golding-institute.github.io/maps/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/maps/tags/bootstrap/</loc>
+    <loc>https://jean-golding-institute.github.io/maps/tags/bootstrap/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/maps/categories/</loc>
+    <loc>https://jean-golding-institute.github.io/maps/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/maps/tags/css/</loc>
+    <loc>https://jean-golding-institute.github.io/maps/tags/css/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/maps/tags/development/</loc>
+    <loc>https://jean-golding-institute.github.io/maps/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/maps/tags/go/</loc>
+    <loc>https://jean-golding-institute.github.io/maps/tags/go/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/maps/tags/golang/</loc>
+    <loc>https://jean-golding-institute.github.io/maps/tags/golang/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/maps/tags/highlight-js/</loc>
+    <loc>https://jean-golding-institute.github.io/maps/tags/highlight-js/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/maps/tags/html/</loc>
+    <loc>https://jean-golding-institute.github.io/maps/tags/html/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/maps/tags/hugo/</loc>
+    <loc>https://jean-golding-institute.github.io/maps/tags/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/maps/tags/jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/maps/tags/js/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/maps/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/maps/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/maps/post/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/maps/project/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/maps/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/maps/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/maps/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/maps/tags/responsive/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/maps/tags/static-site-generator/</loc>
+    <loc>https://jean-golding-institute.github.io/maps/tags/jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/maps/tags/syntax-highlighting/</loc>
+    <loc>https://jean-golding-institute.github.io/maps/tags/js/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/maps/tags/</loc>
+    <loc>https://jean-golding-institute.github.io/maps/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jean-golding-institute.github.io/maps/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jean-golding-institute.github.io/maps/post/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jean-golding-institute.github.io/maps/project/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jean-golding-institute.github.io/maps/categories/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jean-golding-institute.github.io/maps/tags/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jean-golding-institute.github.io/maps/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jean-golding-institute.github.io/maps/tags/responsive/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jean-golding-institute.github.io/maps/tags/static-site-generator/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jean-golding-institute.github.io/maps/tags/syntax-highlighting/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jean-golding-institute.github.io/maps/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/maps/tags/template/</loc>
+    <loc>https://jean-golding-institute.github.io/maps/tags/template/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/maps/tags/themes/</loc>
+    <loc>https://jean-golding-institute.github.io/maps/tags/themes/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

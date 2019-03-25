@@ -7,7 +7,7 @@ weight: 1
 
 ## How to get involved
 
-1. Sign up to our mailing list [here]()
+1. Sign up to the MAPS mailing list [here](https://bristolexppsych.eu.qualtrics.com/jfe/form/SV_6xLmGYOV2rh2JyR)
 2. You will receive instruction on how to register for the project via this mailing list. 
 
 Note: 

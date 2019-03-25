@@ -11,7 +11,7 @@ weight: 1
 
 ## Otherways to participate
 
-...coming soon...
+We are looking for volunteers 
 
 
 ## Slack

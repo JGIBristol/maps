@@ -14,7 +14,7 @@ MAPS is a crowd-sourced science experiment in the same vein as [Many analysts,On
 
 1. Upon signing up (either individually or as a team) we will ask you to provide us information about yourself, your area of expertise and your prior beliefs on the topic. 
 
-2. Once you've completed this form we will provide you with an annonymised dataset containing ~15'000 observations of >100 variables and we will ask you to answer the following question: 
+2. Once you've completed this form we will provide you with an annonymised dataset containing ~15'000 observations of 85 variables and we will ask you to answer the following question: 
 
     > Is computer use during weekdays and weekends at 16 years old associated with depression at 18 years old?
 

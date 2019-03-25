@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on MAPS</title>
-    <link>/maps/categories/</link>
+    <link>https://jean-golding-institute.github.io/maps/categories/</link>
     <description>Recent content in Categories on MAPS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/maps/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jean-golding-institute.github.io/maps/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>R</title>
-      <link>/maps/categories/r/</link>
+      <link>https://jean-golding-institute.github.io/maps/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/maps/categories/r/</guid>
+      <guid>https://jean-golding-institute.github.io/maps/categories/r/</guid>
       <description></description>
     </item>
     

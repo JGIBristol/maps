@@ -7,7 +7,7 @@ googleAnalytics = ""
 
 [params]
     author = "Rob Arbon"
-    description = "mapping the analytical path of a crowdsourced data analysis"
+    description = "mapping the analytical paths of a crowdsourced data analysis"
     githubUsername = "#"
     accent = "purple"
     showBorder = true

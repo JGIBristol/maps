@@ -8,7 +8,7 @@ weight: 1
 
 MAPS is a crowd-sourced science experiment in the same vein as [Many analysts,One Dataset](https://journals.sagepub.com/doi/10.1177/2515245917747646) but with an epidemiological dataset from the [Avon Longitudinal Study of Parents and Children](http://www.bristol.ac.uk/alspac/) (ALSPAC or Children of the 90s study) concerning *youth depression* and *computer use*. The study is split up into two main phases, you are free to participate in either or both. You will gain authorship by participating in phase 1.  
 
-Key project information can be found in Get Involved page. 
+Key project information can be found in **Get Involved** page. 
 
 ### Phase 1: Data analysis
 

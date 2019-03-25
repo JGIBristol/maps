@@ -4,12 +4,11 @@ title: "Project Overview"
 weight: 1
 ---
 
-
 ## Structure
 
-MAPS is a crowd-sourced science experiment in the same vein as [Many analysts,One Dataset](https://journals.sagepub.com/doi/10.1177/2515245917747646) but with an epidemiological dataset from the [Avon Longitudinal Study of Parents and Children](http://www.bristol.ac.uk/alspac/) (ALSPAC or Children of the 90s study) concerning *youth depression* and *computer use*. The study is split up into two main phases, you are free to participate in either or both. You will gain authorship just by participating. 
+MAPS is a crowd-sourced science experiment in the same vein as [Many analysts,One Dataset](https://journals.sagepub.com/doi/10.1177/2515245917747646) but with an epidemiological dataset from the [Avon Longitudinal Study of Parents and Children](http://www.bristol.ac.uk/alspac/) (ALSPAC or Children of the 90s study) concerning *youth depression* and *computer use*. The study is split up into two main phases, you are free to participate in either or both. You will gain authorship by participating in phase 1.  
 
-Important project information can be found in [Get Involved]()
+Key project information can be found in Get Involved page. 
 
 ### Phase 1: Data analysis
 
@@ -44,6 +43,5 @@ Important project information can be found in [Get Involved]()
 * The deadline for submitting your data analysis is 24th June 2019. 
 * The deadline for submitting your data visualisation is 23rd August 2019. 
 
-* Sometime in late september there will be a showcase event were we will discuss the preliminary findings and visualisations. If you're in Bristol please feel free to come along!
-
+* Sometime in mid-September there will be an event were we will discuss the preliminary findings of the study and showcase the visualisations. If you're in Bristol please feel free to come along! 
 

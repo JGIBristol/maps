@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MAPS</title>
+    <link>https://jean-golding-institute.github.io/maps/</link>
+    <description>Recent content on MAPS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="https://jean-golding-institute.github.io/maps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Credits</title>
+      <link>https://jean-golding-institute.github.io/maps/credits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jean-golding-institute.github.io/maps/credits/</guid>
+      <description>This project is a collaboration between The Jean Golding Institute and Avon Longitudinal Study of Parents and Children, and is supported by The UK Reproducibility Network. The people involved are:
+Professor Marcus Munafo - School of Psychological Science, Bristol University &amp;amp; UK Reproducibility Network.
+Professor Nicholas Timpson - Principal investigator, ALSPAC &amp;amp; Bristol Medical School (Population Health Sciences)
+Professor Katharine Robson Brown - Director Jean Golding Institute &amp;amp; Department of Archaeology and Anthropology, Bristol University.</description>
+    </item>
+    
+    <item>
+      <title>Get involved</title>
+      <link>https://jean-golding-institute.github.io/maps/get_involved/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jean-golding-institute.github.io/maps/get_involved/</guid>
+      <description>How to get involved  Sign up to the MAPS mailing list here You will receive instruction on how to register for the project via this mailing list. The data will be distributed via the mailing list.  Note:
+ All project communication from us to you will be through the mailing list. If you would like to ask us a question please email maps-project [at] bristol dot ac dot uk (see the link in the top right hand corner).</description>
+    </item>
+    
+    <item>
+      <title>Project Overview</title>
+      <link>https://jean-golding-institute.github.io/maps/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jean-golding-institute.github.io/maps/overview/</guid>
+      <description>Structure MAPS is a crowd-sourced science experiment in the same vein as Many analysts,One Dataset but with an epidemiological dataset from the Avon Longitudinal Study of Parents and Children (ALSPAC or Children of the 90s study) concerning youth depression and computer use. The study is split up into two main phases, you are free to participate in either or both. You will gain authorship by participating in phase 1.</description>
+    </item>
+    
+    <item>
+      <title>The data</title>
+      <link>https://jean-golding-institute.github.io/maps/the_data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jean-golding-institute.github.io/maps/the_data/</guid>
+      <description>Data dictionary The data for this project is from the Avon Longitudinal study of Parents and Children (ALSPAC, also known as Children of the 90s). For more information about the study visit http://www.bristol.ac.uk/alspac/.
+As the ALSPAC data is highly sensitive we cannot open the data to the public without ensuring the data is anonymised and non-identifiable. To achieve this an anonymised dataset will be generated using the R package SynthPop (Nowok, Raab &amp;amp; Dibben, 2016) on the ALSPAC data, creating the Synthetic Dataset and the Real Dataset.</description>
+    </item>
+    
+    <item>
+      <title>Project 2</title>
+      <link>https://jean-golding-institute.github.io/maps/project/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jean-golding-institute.github.io/maps/project/project2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 3</title>
+      <link>https://jean-golding-institute.github.io/maps/project/project3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jean-golding-institute.github.io/maps/project/project3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 4</title>
+      <link>https://jean-golding-institute.github.io/maps/project/project4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jean-golding-institute.github.io/maps/project/project4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>https://jean-golding-institute.github.io/maps/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>https://jean-golding-institute.github.io/maps/post/2015-07-23-r-rmarkdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>Creating a New Theme</title>
+      <link>https://jean-golding-institute.github.io/maps/post/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://jean-golding-institute.github.io/maps/post/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>https://jean-golding-institute.github.io/maps/post/goisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://jean-golding-institute.github.io/maps/post/goisforlovers/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
+This document is a brief primer on using go templates.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>https://jean-golding-institute.github.io/maps/post/hugoisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://jean-golding-institute.github.io/maps/post/hugoisforlovers/</guid>
+      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title>Migrate from Jekyll</title>
+      <link>https://jean-golding-institute.github.io/maps/post/migrate-from-jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://jean-golding-institute.github.io/maps/post/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+  </channel>
+</rss>
